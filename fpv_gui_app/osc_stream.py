@@ -46,7 +46,7 @@ class OscStreamer:
         port: int,
         voices: int = 3,
         on_log=None,
-        rec_path: str | None = None,   # ✅ dodano
+        rec_path: str | None = None,
     ):
         if self._running:
             return

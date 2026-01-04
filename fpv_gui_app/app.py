@@ -136,7 +136,7 @@ class MainWindow(QMainWindow):
         # -------- Signals --------
         self.btn_open.clicked.connect(self.on_open)
         self.btn_compute.clicked.connect(self.on_compute)
-        self.btn_osc.clicked.connect(self.on_toggle_osc)   # ✅ MANJKALO
+        self.btn_osc.clicked.connect(self.on_toggle_osc)
 
         # --- Export group ---
         export_box = QGroupBox("Export")
