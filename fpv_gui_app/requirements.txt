@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+mido
+python-osc
+PySide6
+pyqtgraph
