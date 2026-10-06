@@ -1,4 +1,4 @@
-# Pretvorba podatkov iz IMU senzorjev FPV drona vparametre sinteze
+# Pretvorba podatkov iz IMU senzorjev FPV drona v parametre sinteze
 
 Ta projekt predstavlja sistem za **sonifikacijo telemetrijskih podatkov FPV drona**, kjer se podatki iz Betaflight Blackbox zapisov pretvorijo v zvočne parametre in uporabijo za sintezo zvoka ali izvoz v MIDI.
 
